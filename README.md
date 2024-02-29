@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhakad-nitin" alt="dhakad-nitin" /></a> </p>
 
-- 🔭 I’m currently working on **Foodie: Food Calorie Counter**
+- 🔭 I’m currently working on **StoryGen: An interactive story generation web app**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **OpenAI**
 
 - 👨‍💻 All of my projects are available at [https://react-tailwindcss-portfolio-sec.vercel.app/](https://react-tailwindcss-portfolio-sec.vercel.app/)
 
