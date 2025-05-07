@@ -5,13 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhakad-nitin" alt="dhakad-nitin" /></a> </p>
 
-- 🔭 I’m currently working on **StoryGen: An interactive story generation web app**
+- 👨‍💻 All of my projects are available at [Official Portfolio-Nitin Dhakad](https://nitindhakad.vercel.app/)
 
-- 🌱 I’m currently learning **OpenAI**
-
-- 👨‍💻 All of my projects are available at [https://react-tailwindcss-portfolio-sec.vercel.app/](https://react-tailwindcss-portfolio-sec.vercel.app/)
-
-- 💬 Ask me about **react, tailwind**
+- 💬 Ask me about **RLHF, Agentic AI, React, Tailwind, Express, ...**
 
 - 📫 How to reach me **dnitin762@gmail.com**
 
